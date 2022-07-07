@@ -1,0 +1,331 @@
+CITIES (16) (240 combinations)
+Amsterdam (Netherlands)
+Athens (Grece)
+Boston (USA)
+Canary_Islands (Autonomous, Spain)
+Istanbul (Turkey)
+Lisbon (Portugal)
+London (England)
+Macau (China (Portugal))
+Marseilles (France)
+Port_Royal (Canada) 
+Rio_De_Janeiro (Brazil) 
+Shanghai (China)
+Singapore (Island City-State)
+Stockholm (Sweden)
+St._Petersburg (Russia)
+Venice (Italy)
+
+Amsterdam:
+-Amsterdam:0km
+-Athens:5600km
+-Boston:6000km
+-Canary_Islands:3300km
+-Istanbul:5900lkm
+-Lisbon:2100km
+-London:400km
+-Macau:18100km
+-Marseilles:3900km
+-Port_Royal:5200km
+-Rio_de_janeiro:9800km
+-Shanghai:19500km
+-Singapore:15400km
+-Stockholm:1800km
+-St_petersburg:2300km
+-Venice:5700km
+
+London:
+-Amsterdam:400km
+-Athens:5500km
+-Boston:5900km
+-Canary_islands:3200km
+-Istanbul:5800km
+-Lisbon:1900km
+-London:0km
+-Macau:18000km
+-Marseilles:3700km
+-Port_Royal:5100km
+-Rio_de_janeiro:9600km
+-Shanghai:19400km
+-Singapore:15300km
+-Stockholm:2100km
+-St_petersburg:2600km
+-Venice:5500km
+
+Marseilles:
+-Amsterdam:3900km
+-Athens:2300km
+-Boston:6900km
+-Canary_islands:2600km
+-Istanbul:2600km
+-Lisbon:1800km
+-London:3700km
+-Macau:14800km
+-Marseilles:0km
+-Port_Royal:6200km
+-Rio_de_janeiro:9000km
+-Shanghai:16200km
+-Singapore:12100km
+-Stockholm:5600km
+-St_petersburg:6100km
+-Venice:2300km
+
+Shanghai:
+-Amsterdam:19500km
+-Athens:14100km
+-Boston:19900km
+-Canary_islands:18300km
+-Istanbul:14900km
+-Lisbon:17500km
+-London:19400km
+-Macau:1600km
+-Marseilles:16200km
+-Port_Royal:20900km
+-Rio_de_janeiro:20200km
+-Shanghai:0km
+-Singapore:4100km
+-Stockholm:21300km
+-St_petersburg:21800km
+-Venice:15900km
+
+Athens:
+-Amsterdam:5600km
+-Athens:0km
+-Boston:8700km
+-Canary_islands:4300km
+-Istanbul:780km
+-Lisbon:3600km
+-London:5500km
+-Macau:12700km
+-Marseilles:2300km
+-Port_Royal:8000km
+-Rio_de_janeiro:10800km
+-Shanghai:14100km
+-Singapore:10000km
+-Stockholm:7300km
+-St_petersburg:7800km
+-Venice:1900km
+
+Boston:
+-Amsterdam:6000km
+-Athens:8700km
+-Boston:0km
+-Canary_islands:5200km
+-Istanbul:9000km
+-Lisbon:5200km
+-London:5900km
+-Macau:21000km
+-Marseilles:6900km
+-Port_Royal:1400km
+-Rio_de_janeiro:8700km
+-Shanghai:19900km
+-Singapore:18500km
+-Stockholm:7300km
+-St_petersburg:7800km
+-Venice:8700km
+
+Port_Royal:
+-Amsterdam:5200km
+-Athens:8000km
+-Boston:1400km
+-Canary_islands:4700km
+-Istanbul:8300km
+-Lisbon:4500km
+-London:5100km
+-Macau:20500km
+-Marseilles:6200km
+-Port_Royal:0km
+-Rio_de_janeiro:8900km
+-Shanghai:20900
+-Singapore:17800km
+-Stockholm:6300km
+-St_petersburg:6800km
+-Venice:8000km
+
+Canary_islands:
+-Amsterdam:3300km
+-Athens:4300km
+-Boston:5200km
+-Canary_islands:0km
+-Istanbul:4600km
+-Lisbon:1300km
+-London:3200km
+-Macau:16800km
+-Marseilles:2600km
+-Port_Royal:4700km
+-Rio_de_janeiro:6500km
+-Shanghai:18300km
+-Singapore:14100km
+-Stockholm:5000km
+-St_petersburg:5500km
+-Venice:4400km
+
+Istanbul:
+-Amsterdam:5900km
+-Athens:780km
+-Boston:9000km
+-Canary_islands:4600km
+-Istanbul:0km
+-Lisbon:3900km
+-London:5800km
+-Macau:13400km
+-Marseilles:2600km
+-Port_Royal:8300km
+-Rio_de_janeiro:11100km
+-Shanghai:14900km
+-Singapore:10700km
+-Stockholm:7700km
+-St_petersburg:8200km
+-Venice:2200km
+
+Lisbon:
+-Amsterdam:2100km
+-Athens:3600km
+-Boston:5200km
+-Canary_islands:1300km
+-Istanbul:3900km
+-Lisbon:0km
+-London:1900km
+-Macau:16100km
+-Marseilles:1800km
+-Port_Royal:4500km
+-Rio_de_janeiro:7800km
+-Shanghai:17500km
+-Singapore:13400km
+-Stockholm:3800km
+-St_petersburg:4300km
+-Venice:3600km
+
+Macau:
+-Amsterdam:18100km
+-Athens:12700
+-Boston:21000km
+-Canary_islands:16800km
+-Istanbul:13400km
+-Lisbon:16100km
+-London:18000km
+-Macau:0km
+-Marseilles:14800km
+-Port_Royal:20500km
+-Rio_de_janeiro:18800km
+-Shanghai:1600km
+-Singapore:2700km
+-Stockholm:19900km
+-St_petersburg:20100km
+-Venice:14400km
+
+Rio_de_janeiro:
+-Amsterdam:9800km
+-Athens:10800km
+-Boston:8700km
+-Canary_islands:6500km
+-Istanbul:11100km
+-Lisbon:7800km
+-London:1800km
+-Macau:18800km
+-Marseilles:9000km
+-Port_Royal:8900km
+-Rio_de_janeiro:0km
+-Shanghai:20200km
+-Singapore:16400km
+-Stockholm:11500km
+-St_petersburg:12000km
+-Venice:10800km
+
+Singapore:
+-Amsterdam:15400km
+-Athens:10000km
+-Boston:18500km
+-Canary_islands:14100km
+-Istanbul:10700km
+-Lisbon:13400km
+-London:15300km
+-Macau:2700km
+-Marseilles:12100km
+-Port_Royal:17800km
+-Rio_de_janeiro:16400km
+-Shanghai:4100km
+-Singapore:0km
+-Stockholm:17200km
+-St_petersburg:17600km
+-Venice:11700km
+
+Stockholm:
+-Amsterdam:1800km
+-Athens:7300km
+-Boston:7300km
+-Canary_islands:5000km
+-Istanbul:7700km
+-Lisbon:3800km
+-London:2100km
+-Macau:19900km
+-Marseilles:5600km
+-Port_Royal:6300km
+-Rio_de_janeiro:11500km
+-Shanghai:21300km
+-Singapore:17200km
+-Stockholm:0km
+-St_petersburg:700km
+-Venice:7400km
+
+St_petersburg:
+-Amsterdam:2300km
+-Athens:7800km
+-Boston:7800km
+-Canary_islands:5500km
+-Istanbul:8200km
+-Lisbon:4300km
+-London:2600km
+-Macau:20100km
+-Marseilles:6100km
+-Port_Royal:6800km
+-Rio_de_janeiro:12000km
+-Shanghai:21800km
+-Singapore:17600km
+-Stockholm:700km
+-St_petersburg:0km
+-Venice:7900km
+
+Venice:
+-Amsterdam:5700km
+-Athens:1900km
+-Boston:8700km
+-Canary_islands:4400km
+-Istanbul:2200km
+-Lisbon:3600km
+-London:5500km
+-Macau:14400km
+-Marseilles:2300km
+-Port_Royal:8000km
+-Rio_de_janeiro:10800km
+-Shanghai:15900km
+-Singapore:11700km
+-Stockholm:7400km
+-St_petersburg:7900km
+-Venice:0km
+
+GOODS (14) (224 combinations)
+Coffee -Amsterdam(3/kg), -London(3/kg), -Marseilles(2/kg), -Shanghai(4/kg), -Athens(2/kg), -Boston(2/kg), -Port_Royal(2/kg), Canary_islands(2/kg), Istanbul(2/kg), -Lisbon(3/kg), -Macau(3/kg), Rio_de_janeiro(2/kg), -Singapore(4/kg), -Stockholm(3/kg), -St._petersburg(3/kg), Venice(3/kg)
+Sugar *not accurate* -Amsterdam(40/kg), -London(30/kg), -Marseilles(35/kg), -Shanghai(35/kg), -Athens(35/kg), -Boston(25/kg), -Port_Royal(30/kg), -Canary_islands(20/kg), -Istanbul(40/kg), -Lisbon(40/kg), -Macau(30/kg), -Rio_de_janeiro(20/kg), -Singapore(25/kg), -Stockholm(30/kg), -St._petersburg(30/kg), -Venice(35/kg)
+Tea -London(40/kg), -Marseilles(30/kg), -Shanghai(40/kg), -Amsterdam(35/kg), -Athens(25/kg), -Boston(35/kg), -Port_Royal(25/kg), -Canary_islands(30/kg), -Istanbul(40/kg), -Lisbon(30/kg), -Macau(40/kg), -Rio_de_janeiro(25/kg), -Singapore(35/kg), Stockholm(35/kg), -St._petersburg(40/kg), -Venice(35/kg)
+Cotton -London(60/kg), -Marseilles(70/kg), -Shanghai(50/kg), -Amsterdam(65/kg), -Athens(60/kg), -Boston(55/kg), -Port_Royal(55/kg), -Canary_islands(50/kg), -Istanbul(70/kg), -Lisbon(55/kg), -Macau(65/kg), -Rio_de_janeiro(50/kg), -Singapore(65/kg), -Stockholm(60/kg), St._petersburg(65-60/kg), -Venice(60/kg)
+Jewellery *not accurate* -Amsterdam(60/kg), -London(60/kg), -Marseilles(50/kg), -Shanghai(50/kg), -Athens(60/kg), -Boston(90/kg), -Port_Royal(80/kg), -Canary_islands(70/kg), -Istanbul(50/kg), -Lisbon(60/kg), -Macau(65/kg), -Rio_de_janeiro(70/kg), -Singapore(65/kg), -Stockholm(60/kg), -St._petersburg(55/kg), -Venice(50/kg)
+Silk *not accurate*  -London(55/kg), -Marseilles(45/kg), -Shanghai(45/kg), -Amsterdam(50/kg), -Athens(55/kg), -Boston(65/kg), -Port_Royal(60/kg), -Canary_islands(50/kg), -Istanbul(45/kg), -Lisbon(55/kg), -Macau(50/kg), -Rio_de_janeiro(60/kg), -Singapore(45/kg), -Stockholm(55/kg), -St._petersburg(50/kg), -Venice(45/kg)
+Spices -London(70/kg), -Marseilles(70/kg), -Shanghai(55/kg), -Amsterdam(75/kg), -Athens(65/kg), -Boston(65/kg), -Port_Royal(65/kg), -Canary_islands(60/kg), -Istanbul(50/kg), -Lisbon(75/kg), -Macau(60/kg), -Rio_de_janeiro(60/kg), -Singapore(55/kg), -Stockholm(75/kg), -St._petersburg(65/kg), -Venice(75/kg)
+Furs *not accurate* -Amsterdam(30/kg), -London(35/kg), -Marseilles(35/kg), -Shanghai(25/kg), -Athens(25/kg), -Boston(15/kg), -Port_Royal(15/kg), -Canary_islands(25/kg), -Istanbul(30/kg), -Lisbon(30/kg), -Macau(25/kg), -Rio_de_janeiro(25/kg), -Singapore(25/kg), -Stockholm(25/kg), -St._petersburg(15/kg), -Venice(25/kg)
+Liquor -London(2/L), -Marseilles(2/L), -Shanghai(2/L), -Amsterdam(2/L), -Athens(2/L), -Boston(1/L), -Port_Royal(1/L), -Canary_islands(1/L), -Istanbul(2/L), -Lisbon(2/L), -Macau(2/L), -Rio_de_janeiro(1/L), -Singapore(2/L), -Stockholm(2/L), -St._petersburg(1/L), -Venice(2/L)
+Tobacco -(1/kg)
+Arms *not accurate* -London(40/kg), -Marseilles(45/kg), -Shanghai(40/kg), -Amsterdam(50/kg), -Athens(40/kg), -Boston(65/kg), -Port_Royal(70/kg), -Istanbul(50/kg), -Lisbon(50/kg), -Macau(60/kg), -Rio_de_janeiro(70/kg), -Singapore(65/kg), -Stockholm(50/kg), -St._petersburg(40/kg), -Venice(45/kg)
+Opium -London(15/kg), -Marseilles(20/kg), -Shanghai(X-30/kg), -Amsterdam(20/kg), -Athens(20/kg), -Boston(25/kg), -Port-Royal(25/kg), -Canary_islands(25/kg), -Istanbul(15/kg), -Lisbon(20/kg), -Macau(X-30/kg), -Rio_de_janeiro(20/kg), -Singapore(X-30/kg), -Stockholm(20/kg), -St._petersburg(20/kg), -Venice(20/kg)
+Supplies for the ship -(8/day, 240/month)
+
+
+Year:1650
+
+A boat can carry 100000-150000-200000-250000 kg
+
+For a 13-person ship, you would need 1000 kg of food a month, 12000kg a year
+
+5km/hour-8kmh-11kmh-15km/hour
+
+Ship price: (starter)10000ANG-30000ANG-50000ANG-70000ANG
